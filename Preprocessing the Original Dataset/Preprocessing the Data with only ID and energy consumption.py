@@ -5,8 +5,7 @@ from the website of London Datastore available at
 https://data.london.gov.uk/dataset/smartmeter-energy-use-data-in-london-households)
 and saved locally as a csv file.
 
-Here we will drop the columns for hour, day of the year, and is_weekend columns at 
-the end to accelerate computation.
+Here we will drop the columns for hour, day of the year, and is_weekend to accelerate computation.
 '''
 from sklearn.preprocessing import LabelEncoder
 import pandas as pd
