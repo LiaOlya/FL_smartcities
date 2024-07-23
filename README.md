@@ -1,1 +1,1 @@
-# FL_smartcities
+# Federated Learning for Smart Cities
